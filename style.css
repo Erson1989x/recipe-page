@@ -114,6 +114,10 @@ ul, ol {
 .last-content-ul li:last-child {
     border-bottom: none;
 }
+.nutrition-span {
+    color: var(--brandyRed);
+    font-weight: 700;
+}
 
 /* --- Attribution --- */
 
